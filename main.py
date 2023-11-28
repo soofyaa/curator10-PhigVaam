@@ -1,6 +1,6 @@
 from telebot import TeleBot
 from random import random # для подбора случайного числа
-Mining = TeleBot('6940480354:AAHYUUl-Tg64KVgkgTO5zjsMgT_KLHXT6PQ') # называем бота
+Mining = TeleBot('6637586538:AAEpFTn8wMw-1w1y-SWUiur0YCvK-HxF_tI') # называем бота
 
 stones = [
     ['Камень 🔳', 'После удара киркой монолитный кусок рассыпается на кучу булыжников...', 'common', 0.93],
